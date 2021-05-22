@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Model View ViewModel</string>
-    <string name="heading">MVVM Architecture Pattern Example</string>
-    <string name="email_hint">Enter your Email ID</string>
-    <string name="password_hint">Enter your password</string>
+    <string name="heading">MVVM przykładowa aplikacja</string>
+    <string name="email_hint">Wprowadź email</string>
+    <string name="password_hint">Wprowadź hasło</string>
     <string name="login_button_text">Login</string>
 </resources>
